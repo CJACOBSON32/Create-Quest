@@ -7,7 +7,11 @@
 	#The name of the modpack
 	modpackName = "Create Quest 1.20.1"
 	#The version of the modpack
+<<<<<<<< HEAD:Create Quest/overrides/config/bcc-common.toml
 	modpackVersion = "0.1"
+========
+	modpackVersion = "v29"
+>>>>>>>> bmc4:Better MC [FORGE] 1.20.1 v29/config/bcc-common.toml
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
